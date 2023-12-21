@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+      {
+        "source": "/docs/:path*",
+        "destination": "https://www.octoblok.com/docs/:path*"
+      }
+    ]
+  }
